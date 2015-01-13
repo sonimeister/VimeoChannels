@@ -16,6 +16,11 @@ Class for Vimeo Tableviews, the fetching operations were implemented
 
 Implemented static method for API calls here, make them in one class would be easy to maintain. Remember to set your own user token
 
+##Screenshots
+
+![screenshot](https://raw.github.com/l800891/VimeoChannels//master/Screenshots/1.png)
+![screenshot](https://raw.github.com/l800891/VimeoChannels//master/Screenshots/2.png)
+
 ##Licensing
 
 This project is licensed under the MIT license.
