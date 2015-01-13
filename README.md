@@ -1,7 +1,11 @@
 
 # Vimeo Channels
 
-Vimeo Channels is an iOS sample project based on Vimeo JSON API
+Vimeo Channels is an iOS sample project based on Vimeo JSON API, inspired by cs193p Stanford, no third party library.
+
+##How to use
+Locate VimeoUserToken.h in VimeoFecther group and set it with your own token, 
+You can request one here at https://developer.vimeo.com/apps , after registered your app, copy your "Client Identifier" in "Authentication" tab and paste it here, then you can built and run.
 
 
 ##### VimeoBaseTableViewController
@@ -16,7 +20,7 @@ Implemented static method for API calls here, make them in one class would be ea
 
 This project is licensed under the MIT license.
 
-Copyright (c) 2014 - 2015 Chenglin Liu <cliu28 at stevens dot edu>
+Copyright (c) 2014 - 2015 Chenglin Liu    cliu28 at stevens dot edu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
