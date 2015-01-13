@@ -4,11 +4,11 @@
 Vimeo Channels is an iOS sample project based on Vimeo JSON API
 
 
-## VimeoBaseTableViewController
+##### VimeoBaseTableViewController
 
 Class for Vimeo Tableviews, the fetching operations were implemented
 
-##  VimeoFetcher: 
+#####  VimeoFetcher: 
 
 Implemented static method for API calls here, make them in one class would be easy to maintain. Remember to set your own user token
 
