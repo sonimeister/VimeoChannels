@@ -18,8 +18,8 @@ Implemented static method for API calls here, make them in one class would be ea
 
 ##Screenshots
 
-![screenshot](https://raw.github.com/l800891/VimeoChannels//master/Screenshots/1.png)
-![screenshot](https://raw.github.com/l800891/VimeoChannels//master/Screenshots/2.png)
+![screenshot](https://raw.github.com/l800891/VimeoChannels/master/Screenshots/1.png)
+![screenshot](https://raw.github.com/l800891/VimeoChannels/master/Screenshots/2.png)
 
 ##Licensing
 
