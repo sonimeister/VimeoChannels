@@ -20,8 +20,8 @@
 
 -(void)fetchData{
     //Channel can be adjust here
-    NSString *channel=@"StaffPicks";
-    //NSString *channel=@"DocumentaryFilm";
+    //NSString *channel=@"StaffPicks";
+    NSString *channel=@"DocumentaryFilm";
     //NSString *channel=@"EverythingAnimated";
     //NSString *channel=@"NiceType";
     

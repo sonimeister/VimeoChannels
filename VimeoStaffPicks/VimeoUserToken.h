@@ -7,5 +7,5 @@
 //
 
 /*Set user token here*/
-#define USER_TOKEN @""
+#define USER_TOKEN @"5a57c0785e7cd2166d97c8f1ba84c103"
 
